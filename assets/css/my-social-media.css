@@ -1,0 +1,50 @@
+.wetuts-bio-wrap {
+    margin: 40px 0 20px 0;
+    border: 1px solid #eee;
+    padding: 20px;
+    display: block;
+    overflow: hidden;
+}
+
+.wetuts-bio-wrap .avatar-image {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.wetuts-bio-content .author-name {
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+ul.wetuts-socials {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-top: 15px;
+}
+
+ul.wetuts-socials li {
+    display: inline-block;
+    border: 1px solid #eee;
+    padding: 3px 10px;
+}
+
+ul.wetuts-socials li a {
+    text-decoration: none !important;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+ul.wetuts-socials li a:hover{
+    text-decoration: underline !important;
+}
+
+#error_notices{
+    color: brown !important;
+}
+
+p.description{
+    color: darkblue;
+}
